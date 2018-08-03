@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/sp_filter/sp_filter.iml" filepath="$PROJECT_DIR$/sp_filter/sp_filter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sp_interceptor/sp_interceptor.iml" filepath="$PROJECT_DIR$/sp_interceptor/sp_interceptor.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sp_logback/sp_logback.iml" filepath="$PROJECT_DIR$/sp_logback/sp_logback.iml" />
+    </modules>
+  </component>
+</project>
