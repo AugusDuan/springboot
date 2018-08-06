@@ -12,19 +12,19 @@ import org.springframework.context.annotation.Configuration;
  */
 @Configuration
 public class FilterConfiguration {
-//
-//    @Bean
-//    public FilterRegistrationBean refererFilterRegistration() {
-//        FilterRegistrationBean<RefererFilter> registration = new FilterRegistrationBean<>();
-//        //注入过滤器
-//        registration.setFilter(new RefererFilter());
-//        //过滤规则
-//        registration.addUrlPatterns("/user/*");
-//        //过滤器名称
-//        registration.setName("ref");
-//        //过滤器顺序
-//        registration.setOrder(1);
-//
-//        return registration;
-//    }
+
+    @Bean
+    public FilterRegistrationBean refererFilterRegistration() {
+        FilterRegistrationBean<RefererFilter> registration = new FilterRegistrationBean<>();
+        //注入过滤器
+        registration.setFilter(new RefererFilter());
+        //过滤规则
+        registration.addUrlPatterns("/user/*","*.png");
+        //过滤器名称
+        registration.setName("ref");
+        //过滤器顺序
+        registration.setOrder(1);
+
+        return registration;
+    }
 }

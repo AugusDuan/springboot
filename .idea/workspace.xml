@@ -4,7 +4,48 @@
     <option name="GROUP_BY_SEVERITY" value="true" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4de5e894-e8a9-4aac-8ea7-56c396510dc7" name="Default Changelist" comment="" />
+    <list default="true" id="4de5e894-e8a9-4aac-8ea7-56c396510dc7" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sp_filter/src/main/resources/static/img/1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sp_interceptor/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sp_interceptor/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sp_interceptor/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sp_interceptor/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sp_interceptor/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sp_interceptor/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sp_interceptor/src/main/java/priv/augus/filter/ince/InceApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sp_interceptor/src/main/java/priv/augus/filter/ince/IndexController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sp_interceptor/src/main/java/priv/augus/filter/ince/LogInterceptor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sp_interceptor/src/main/java/priv/augus/filter/ince/WebJavaBeanConfiguration.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sp_interceptor/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sp_interceptor/src/main/resources/static/img/1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sp_interceptor/src/main/resources/templates/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sp_interceptor/src/test/java/priv/augus/filter/ince/InceApplicationTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sp_logback/src/main/java/priv/augus/logback/DealRealData.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__antlr_antlr_2_7_7.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_zaxxer_HikariCP_2_7_9.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__dom4j_dom4j_1_6_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__javax_transaction_javax_transaction_api_1_2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__mysql_mysql_connector_java_5_1_46.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_aspectj_aspectjweaver_1_8_13.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_hibernate_common_hibernate_commons_annotations_5_0_1_Final.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_hibernate_hibernate_core_5_2_17_Final.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_hibernate_javax_persistence_hibernate_jpa_2_1_api_1_0_2_Final.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_javassist_javassist_3_22_0_GA.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_jboss_jandex_2_0_3_Final.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_aop_2_0_4_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_data_jpa_2_0_4_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_jdbc_2_0_4_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_data_spring_data_commons_2_0_9_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_data_spring_data_jpa_2_0_9_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_aspects_5_0_8_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_jdbc_5_0_8_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_orm_5_0_8_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_tx_5_0_8_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sp_filter/src/main/java/priv/augus/filter/controller/FilterConfiguration.java" beforeDir="false" afterPath="$PROJECT_DIR$/sp_filter/src/main/java/priv/augus/filter/controller/FilterConfiguration.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sp_filter/src/main/java/priv/augus/filter/controller/RefererFilter.java" beforeDir="false" afterPath="$PROJECT_DIR$/sp_filter/src/main/java/priv/augus/filter/controller/RefererFilter.java" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/sp_logback/target/" />
     <ignored path="$PROJECT_DIR$/sp_filter/target/" />
     <ignored path="$PROJECT_DIR$/sp_interceptor/target/" />
@@ -14,46 +55,71 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
   <component name="FUSProjectUsageTrigger">
     <session id="936127184">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
           <entry key="project.closed" value="2" />
           <entry key="project.open.time.2" value="1" />
-          <entry key="project.open.time.28" value="1" />
-          <entry key="project.opened" value="2" />
+          <entry key="project.open.time.28" value="2" />
+          <entry key="project.opened" value="3" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="HTML" value="2" />
-          <entry key="class" value="5" />
-          <entry key="html" value="2" />
-          <entry key="java" value="10" />
-          <entry key="properties" value="1" />
+          <entry key="TCHUMAN" value="1" />
+          <entry key="class" value="7" />
+          <entry key="html" value="3" />
+          <entry key="java" value="24" />
+          <entry key="png" value="1" />
+          <entry key="properties" value="3" />
+          <entry key="sql" value="6" />
+          <entry key="xml" value="2" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="CLASS" value="5" />
-          <entry key="HTML" value="4" />
-          <entry key="JAVA" value="10" />
-          <entry key="Properties" value="1" />
+          <entry key="CLASS" value="7" />
+          <entry key="Database Element" value="1" />
+          <entry key="HTML" value="5" />
+          <entry key="Image" value="1" />
+          <entry key="JAVA" value="24" />
+          <entry key="Properties" value="3" />
+          <entry key="SQL" value="3" />
+          <entry key="Scratch" value="3" />
+          <entry key="XML" value="2" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="ft" value="29" />
-          <entry key="html" value="92" />
-          <entry key="java" value="799" />
-          <entry key="properties" value="7" />
+          <entry key="html" value="123" />
+          <entry key="java" value="917" />
+          <entry key="properties" value="8" />
+          <entry key="sql" value="17" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="HTML" value="92" />
-          <entry key="JAVA" value="799" />
-          <entry key="Properties" value="7" />
+          <entry key="HTML" value="123" />
+          <entry key="JAVA" value="917" />
+          <entry key="Properties" value="8" />
+          <entry key="Scratch" value="17" />
           <entry key="VTL" value="29" />
         </counts>
       </usages-collector>
@@ -62,15 +128,19 @@
       <usages-collector id="statistics.spring.boot.run.usages" />
     </session>
   </component>
+  <component name="FavoritesManager">
+    <favorites_list name="springboot" />
+  </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/sp_filter/src/main/java/priv/augus/filter/controller/IndexController.java">
+        <entry file="file://$PROJECT_DIR$/sp_interceptor/src/main/java/priv/augus/filter/ince/WebJavaBeanConfiguration.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="216">
-              <caret line="19" lean-forward="true" selection-start-line="19" selection-end-line="19" />
+            <state relative-caret-position="253">
+              <caret line="31" column="20" lean-forward="true" selection-start-line="31" selection-start-column="20" selection-end-line="31" selection-end-column="20" />
               <folding>
                 <element signature="imports" expanded="true" />
+                <element signature="e#798#799#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -79,8 +149,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/sp_filter/src/main/java/priv/augus/filter/controller/RefererFilter.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="286">
-              <caret line="19" column="55" lean-forward="true" selection-start-line="19" selection-start-column="55" selection-end-line="19" selection-end-column="55" />
+            <state relative-caret-position="231">
+              <caret line="40" column="18" selection-start-line="40" selection-start-column="18" selection-end-line="40" selection-end-column="18" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -91,8 +161,20 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/sp_filter/src/main/java/priv/augus/filter/controller/FilterConfiguration.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="118">
-              <caret line="14" lean-forward="true" selection-start-line="14" selection-start-column="2" selection-end-line="28" selection-end-column="7" />
+            <state relative-caret-position="206">
+              <caret line="21" column="52" selection-start-line="21" selection-start-column="52" selection-end-line="21" selection-end-column="52" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/sp_interceptor/src/main/java/priv/augus/filter/ince/LogInterceptor.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="239">
+              <caret line="24" column="20" lean-forward="true" selection-start-line="24" selection-start-column="20" selection-end-line="24" selection-end-column="20" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -104,47 +186,55 @@
         <entry file="file://$PROJECT_DIR$/sp_filter/src/main/resources/application.properties">
           <provider selected="true" editor-type-id="text-editor">
             <state>
-              <caret column="16" lean-forward="true" selection-start-column="16" selection-end-column="16" />
+              <caret column="16" selection-end-column="16" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-beans/5.0.8.RELEASE/spring-beans-5.0.8.RELEASE-sources.jar!/org/springframework/beans/factory/FactoryBean.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="220">
-              <caret line="24" column="45" selection-start-line="24" selection-start-column="45" selection-end-line="24" selection-end-column="45" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/sp_filter/src/main/java/priv/augus/filter/FilterApplication.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="66">
-              <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="10" selection-end-column="32" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/sp_filter/src/main/resources/templates/index.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="286">
-              <caret line="13" column="7" lean-forward="true" selection-start-line="13" selection-start-column="7" selection-end-line="13" selection-end-column="7" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/sp_filter/src/main/java/priv/augus/filter/controller/User.java">
+        <entry file="file://$PROJECT_DIR$/sp_interceptor/src/main/resources/application.properties">
           <provider selected="true" editor-type-id="text-editor">
             <state>
-              <caret selection-end-line="37" />
+              <caret column="16" selection-start-column="16" selection-end-column="16" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/sp_interceptor/src/main/java/priv/augus/filter/ince/IndexController.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="286">
+              <caret line="18" selection-start-line="18" selection-end-line="18" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/sp_interceptor/src/main/java/priv/augus/filter/ince/InceApplication.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="110">
+              <caret line="5" selection-start-line="5" selection-end-line="5" selection-end-column="22" />
               <folding>
-                <element signature="e#397#398#0" expanded="true" />
-                <element signature="e#429#430#0" expanded="true" />
+                <element signature="imports" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/sp_interceptor/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="132">
+              <caret line="26" column="18" selection-start-line="26" selection-start-column="18" selection-end-line="26" selection-end-column="18" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/sp_interceptor/src/main/resources/templates/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="176">
+              <caret line="8" column="6" lean-forward="true" selection-start-line="8" selection-start-column="6" selection-end-line="8" selection-end-column="6" />
             </state>
           </provider>
         </entry>
@@ -154,9 +244,9 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Class" />
         <option value="thymeleaf" />
         <option value="HTML File" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -165,6 +255,12 @@
       <find>ref</find>
       <find>RefererFilter</find>
     </findStrings>
+    <replaceStrings>
+      <replace />
+    </replaceStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -177,8 +273,20 @@
         <option value="$PROJECT_DIR$/sp_filter/src/main/resources/application.properties" />
         <option value="$PROJECT_DIR$/sp_filter/src/main/resources/templates/as.html" />
         <option value="$PROJECT_DIR$/sp_filter/src/main/resources/templates/index.html" />
-        <option value="$PROJECT_DIR$/sp_filter/src/main/java/priv/augus/filter/controller/FilterConfiguration.java" />
         <option value="$PROJECT_DIR$/sp_filter/src/main/java/priv/augus/filter/controller/RefererFilter.java" />
+        <option value="$PROJECT_DIR$/sp_filter/src/main/java/priv/augus/filter/controller/FilterConfiguration.java" />
+        <option value="$PROJECT_DIR$/sp_interceptor/src/main/java/priv/augus/ince/InceApplication.java" />
+        <option value="$PROJECT_DIR$/sp_interceptor/src/main/java/priv/augus/ince/LogInterceptor.java" />
+        <option value="$APPLICATION_CONFIG_DIR$/consoles/db/a16b7542-e50e-413d-afbb-f89943256513/console_2.sql" />
+        <option value="$PROJECT_DIR$/sp_logback/src/main/java/priv/augus/logback/DealRealData.java" />
+        <option value="$PROJECT_DIR$/sp_interceptor/src/main/java/priv/augus/filter/controller/ince/InceApplication.java" />
+        <option value="$PROJECT_DIR$/sp_interceptor/src/main/java/priv/augus/filter/ince/IndexController.java" />
+        <option value="$PROJECT_DIR$/sp_interceptor/src/main/java/priv/augus/filter/ince/LogInterceptor.java" />
+        <option value="$PROJECT_DIR$/sp_interceptor/src/main/resources/application.properties" />
+        <option value="$PROJECT_DIR$/sp_interceptor/src/main/resources/templates/index.html" />
+        <option value="$PROJECT_DIR$/sp_interceptor/pom.xml" />
+        <option value="$PROJECT_DIR$/sp_interceptor/src/main/java/priv/augus/filter/ince/InceApplication.java" />
+        <option value="$PROJECT_DIR$/sp_interceptor/src/main/java/priv/augus/filter/ince/WebJavaBeanConfiguration.java" />
       </list>
     </option>
   </component>
@@ -202,108 +310,103 @@
     <option name="width" value="1400" />
     <option name="height" value="1000" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
-      <pane id="AndroidView" />
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
               <item name="springboot" type="b2602c69:ProjectViewProjectNode" />
-              <item name="sp_filter" type="462c0819:PsiDirectoryNode" />
+              <item name="sp_interceptor" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="springboot" type="b2602c69:ProjectViewProjectNode" />
-              <item name="sp_filter" type="462c0819:PsiDirectoryNode" />
+              <item name="sp_interceptor" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="springboot" type="b2602c69:ProjectViewProjectNode" />
-              <item name="sp_filter" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="springboot" type="b2602c69:ProjectViewProjectNode" />
-              <item name="sp_filter" type="462c0819:PsiDirectoryNode" />
+              <item name="sp_interceptor" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="springboot" type="b2602c69:ProjectViewProjectNode" />
-              <item name="sp_filter" type="462c0819:PsiDirectoryNode" />
+              <item name="sp_interceptor" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="priv" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="springboot" type="b2602c69:ProjectViewProjectNode" />
-              <item name="sp_filter" type="462c0819:PsiDirectoryNode" />
+              <item name="sp_interceptor" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="priv" type="462c0819:PsiDirectoryNode" />
-              <item name="augus" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="springboot" type="b2602c69:ProjectViewProjectNode" />
-              <item name="sp_filter" type="462c0819:PsiDirectoryNode" />
+              <item name="sp_interceptor" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="priv" type="462c0819:PsiDirectoryNode" />
               <item name="augus" type="462c0819:PsiDirectoryNode" />
-              <item name="filter" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="springboot" type="b2602c69:ProjectViewProjectNode" />
-              <item name="sp_filter" type="462c0819:PsiDirectoryNode" />
+              <item name="sp_interceptor" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="priv" type="462c0819:PsiDirectoryNode" />
               <item name="augus" type="462c0819:PsiDirectoryNode" />
               <item name="filter" type="462c0819:PsiDirectoryNode" />
-              <item name="controller" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="springboot" type="b2602c69:ProjectViewProjectNode" />
-              <item name="sp_filter" type="462c0819:PsiDirectoryNode" />
+              <item name="sp_interceptor" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="priv" type="462c0819:PsiDirectoryNode" />
+              <item name="augus" type="462c0819:PsiDirectoryNode" />
+              <item name="filter" type="462c0819:PsiDirectoryNode" />
+              <item name="ince" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="springboot" type="b2602c69:ProjectViewProjectNode" />
+              <item name="sp_interceptor" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="resources" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="springboot" type="b2602c69:ProjectViewProjectNode" />
-              <item name="sp_filter" type="462c0819:PsiDirectoryNode" />
+              <item name="sp_interceptor" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="resources" type="462c0819:PsiDirectoryNode" />
               <item name="templates" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="springboot" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-            </path>
-            <path>
-              <item name="springboot" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-              <item name="Maven: org.springframework.boot:spring-boot:2.0.4.RELEASE" type="70bed36:NamedLibraryElementNode" />
-            </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="AndroidView" />
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="oracle" />
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RequestMappingsPanelOrder0" value="0" />
     <property name="RequestMappingsPanelOrder1" value="1" />
@@ -311,7 +414,8 @@
     <property name="RequestMappingsPanelWidth1" value="75" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1533290127245" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1533547134302" />
+    <property name="database.console.LAST_STATE" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../gof/gof" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -321,7 +425,16 @@
     <property name="settings.editor.selected.configurable" value="fileTemplates" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="priv.augus.filter" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="priv.augus.filter.ince" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\codeTest\springboot\sp_interceptor\src\main\resources\static" />
+      <recent name="E:\codeTest\springboot\sp_interceptor\src\main\resources\templates" />
+      <recent name="E:\codeTest\springboot\sp_filter\src\main\resources\static\img" />
       <recent name="E:\codeTest\springboot\sp_filter\src\main\resources\templates" />
     </key>
   </component>
@@ -341,8 +454,22 @@
         </RuleState>
       </list>
     </option>
+    <option name="contentProportion" value="0.08846585" />
   </component>
-  <component name="RunManager" selected="Spring Boot.FilterApplication">
+  <component name="RunManager" selected="Spring Boot.InceApplication">
+    <configuration name="DealRealData" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="priv.augus.logback.DealRealData" />
+      <module name="sp_logback" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="priv.augus.logback.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="FilterApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
       <module name="sp_filter" />
       <option name="SPRING_BOOT_MAIN_CLASS" value="priv.augus.filter.FilterApplication" />
@@ -352,7 +479,7 @@
     </configuration>
     <configuration name="InceApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
       <module name="sp_interceptor" />
-      <option name="SPRING_BOOT_MAIN_CLASS" value="priv.augus.ince.InceApplication" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="priv.augus.filter.ince.InceApplication" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -368,7 +495,13 @@
       <item itemvalue="Spring Boot.LogbackApplication" />
       <item itemvalue="Spring Boot.FilterApplication" />
       <item itemvalue="Spring Boot.InceApplication" />
+      <item itemvalue="Application.DealRealData" />
     </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.DealRealData" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -382,50 +515,61 @@
       <updated>1533258752027</updated>
       <workItem from="1533258753734" duration="14454000" />
       <workItem from="1533286641733" duration="3527000" />
+      <workItem from="1533519350790" duration="9241000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="17981000" />
+    <option name="totallyTimeSpent" value="27222000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
   </component>
   <component name="ToolWindowManager">
     <frame x="54" y="-8" width="1874" height="1096" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25248072" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49840763" visible="true" weight="0.25523704" />
+      <window_info id="Structure" order="1" sideWeight="0.50159234" side_tool="true" weight="0.25523704" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
       <window_info id="UI Designer" order="4" />
-      <window_info id="Favorites" order="5" side_tool="true" />
+      <window_info id="Favorites" order="5" sideWeight="0.50159234" side_tool="true" weight="0.25523704" />
       <window_info id="Capture Tool" order="6" />
-      <window_info id="Web" order="7" side_tool="true" />
-      <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Spring" order="7" />
-      <window_info anchor="bottom" id="Terminal" order="8" />
-      <window_info anchor="bottom" id="Inspection Results" order="9" weight="0.32942432" />
-      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
-      <window_info anchor="bottom" id="Messages" order="11" />
-      <window_info anchor="bottom" id="Java Enterprise" order="12" />
-      <window_info anchor="bottom" id="Database Changes" order="13" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="14" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Run Dashboard" order="15" visible="true" weight="0.30490404" />
+      <window_info id="Web" order="7" sideWeight="0.50159234" side_tool="true" weight="0.25523704" />
+      <window_info anchor="bottom" id="Database Console" order="0" weight="0.32977587" />
+      <window_info anchor="bottom" id="Message" order="1" />
+      <window_info anchor="bottom" id="Find" order="2" />
+      <window_info anchor="bottom" id="Run" order="3" weight="0.32977587" />
+      <window_info anchor="bottom" id="Debug" order="4" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="5" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="6" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="7" weight="0.32977587" />
+      <window_info anchor="bottom" id="Spring" order="8" />
+      <window_info anchor="bottom" id="Terminal" order="9" />
+      <window_info anchor="bottom" id="Inspection Results" order="10" weight="0.32942432" />
+      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="12" />
+      <window_info anchor="bottom" id="Java Enterprise" order="13" weight="0.32977587" />
+      <window_info anchor="bottom" id="Database Changes" order="14" weight="0.32977587" />
+      <window_info anchor="bottom" id="Version Control" order="15" />
+      <window_info active="true" anchor="bottom" id="Run Dashboard" order="16" visible="true" weight="0.44183564" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="right" id="Capture Analysis" order="4" />
       <window_info anchor="right" id="Maven Projects" order="5" />
-      <window_info anchor="right" id="Database" order="6" />
+      <window_info anchor="right" id="Database" order="6" visible="true" weight="0.16703418" />
       <window_info anchor="right" id="Palette&#9;" order="7" />
       <window_info anchor="right" id="Theme Preview" order="8" />
-      <window_info anchor="right" id="Bean Validation" order="9" />
+      <window_info anchor="right" id="Bean Validation" order="9" weight="0.3296582" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -433,6 +577,18 @@
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/sp_filter/src/main/java/priv/augus/filter/controller/RefererFilter.java</url>
+          <line>31</line>
+          <properties />
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/sp_filter/src/main/java/priv/augus/filter/IndexController.java" />
@@ -465,6 +621,8 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/sp_filter/src/main/resources/templates/asd.HTML" />
+    <entry file="file://$PROJECT_DIR$/sp_filter/src/main/resources/templates/as.html" />
     <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-beans/5.0.8.RELEASE/spring-beans-5.0.8.RELEASE-sources.jar!/org/springframework/beans/factory/FactoryBean.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="220">
@@ -472,10 +630,41 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/sp_filter/src/main/resources/templates/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="286">
+          <caret line="13" column="7" selection-start-line="13" selection-start-column="7" selection-end-line="13" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sp_filter/src/main/java/priv/augus/filter/FilterApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="88">
+          <caret line="6" column="22" selection-start-line="5" selection-end-line="10" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/tomcat/embed/tomcat-embed-core/8.5.32/tomcat-embed-core-8.5.32.jar!/javax/servlet/FilterChain.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="110">
+          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-web/5.0.8.RELEASE/spring-web-5.0.8.RELEASE.jar!/org/springframework/web/filter/CharacterEncodingFilter.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="35">
+          <caret line="76" column="60" selection-start-line="76" selection-start-column="60" selection-end-line="76" selection-end-column="60" />
+          <folding>
+            <element signature="e#0#2819#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/sp_filter/src/main/java/priv/augus/filter/controller/User.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret selection-end-line="37" />
+        <state relative-caret-position="176">
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
           <folding>
             <element signature="e#397#398#0" expanded="true" />
             <element signature="e#429#430#0" expanded="true" />
@@ -483,41 +672,110 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/sp_filter/src/main/resources/templates/asd.HTML">
+    <entry file="file://$PROJECT_DIR$/sp_filter/src/main/java/priv/augus/filter/controller/IndexController.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret selection-end-line="2" selection-end-column="76" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/sp_filter/src/main/resources/templates/as.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="66">
-          <caret line="3" column="3" selection-start-line="3" selection-start-column="3" selection-end-line="3" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/sp_filter/src/main/resources/templates/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="286">
-          <caret line="13" column="7" lean-forward="true" selection-start-line="13" selection-start-column="7" selection-end-line="13" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/sp_filter/src/main/java/priv/augus/filter/controller/FilterConfiguration.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="118">
-          <caret line="14" lean-forward="true" selection-start-line="14" selection-start-column="2" selection-end-line="28" selection-end-column="7" />
+        <state relative-caret-position="84">
+          <caret line="19" selection-start-line="19" selection-end-line="19" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/sp_filter/src/main/java/priv/augus/filter/controller/IndexController.java">
+    <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/a16b7542-e50e-413d-afbb-f89943256513/console_1.sql">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/a16b7542-e50e-413d-afbb-f89943256513/console.sql">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="das://a16b7542-e50e-413d-afbb-f89943256513/schema/DLSYS/table/TCHUMAN">
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state>
+          <filtering enabled="true" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="das://a16b7542-e50e-413d-afbb-f89943256513/schema/DLSYS/table/TCWFDICSUPSTATE.sql">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="216">
-          <caret line="19" lean-forward="true" selection-start-line="19" selection-end-line="19" />
+        <state relative-caret-position="242">
+          <caret line="11" selection-start-line="11" selection-end-line="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/a16b7542-e50e-413d-afbb-f89943256513/console_2.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="das://a16b7542-e50e-413d-afbb-f89943256513/schema/DLSYS/table/TCHUMANACTPUBFIELD.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="22">
+          <caret line="1" column="13" selection-start-line="1" selection-start-column="13" selection-end-line="1" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="das://a16b7542-e50e-413d-afbb-f89943256513/schema/DLSYS/table/TCDICMAPOPTYPE.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="9" selection-start-line="9" selection-end-line="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sp_logback/src/main/java/priv/augus/logback/DealRealData.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="292">
+          <caret line="17" column="9" lean-forward="true" selection-start-line="17" selection-start-column="9" selection-end-line="17" selection-end-column="9" />
+          <folding>
+            <element signature="e#534#535#0" expanded="true" />
+            <element signature="e#573#574#0" expanded="true" />
+            <element signature="e#619#620#0" expanded="true" />
+            <element signature="e#661#662#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sp_filter/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-861" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sp_filter/src/main/resources/application.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="16" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sp_interceptor/src/main/resources/application.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="16" selection-start-column="16" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sp_interceptor/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="26" column="18" selection-start-line="26" selection-start-column="18" selection-end-line="26" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sp_interceptor/src/main/resources/static/img/1.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sp_interceptor/src/main/resources/templates/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="8" column="6" lean-forward="true" selection-start-line="8" selection-start-column="6" selection-end-line="8" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sp_filter/src/main/java/priv/augus/filter/controller/FilterConfiguration.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="206">
+          <caret line="21" column="52" selection-start-line="21" selection-start-column="52" selection-end-line="21" selection-end-column="52" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -526,25 +784,49 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/sp_filter/src/main/java/priv/augus/filter/controller/RefererFilter.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="286">
-          <caret line="19" column="55" lean-forward="true" selection-start-line="19" selection-start-column="55" selection-end-line="19" selection-end-column="55" />
+        <state relative-caret-position="231">
+          <caret line="40" column="18" selection-start-line="40" selection-start-column="18" selection-end-line="40" selection-end-column="18" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/sp_filter/src/main/resources/application.properties">
+    <entry file="file://$PROJECT_DIR$/sp_interceptor/src/main/java/priv/augus/filter/ince/InceApplication.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="16" lean-forward="true" selection-start-column="16" selection-end-column="16" />
+        <state relative-caret-position="110">
+          <caret line="5" selection-start-line="5" selection-end-line="5" selection-end-column="22" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/sp_filter/src/main/java/priv/augus/filter/FilterApplication.java">
+    <entry file="file://$PROJECT_DIR$/sp_interceptor/src/main/java/priv/augus/filter/ince/IndexController.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="66">
-          <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="10" selection-end-column="32" />
+        <state relative-caret-position="286">
+          <caret line="18" selection-start-line="18" selection-end-line="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sp_interceptor/src/main/java/priv/augus/filter/ince/WebJavaBeanConfiguration.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="253">
+          <caret line="31" column="20" lean-forward="true" selection-start-line="31" selection-start-column="20" selection-end-line="31" selection-end-column="20" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#798#799#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sp_interceptor/src/main/java/priv/augus/filter/ince/LogInterceptor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="239">
+          <caret line="24" column="20" lean-forward="true" selection-start-line="24" selection-start-column="20" selection-end-line="24" selection-end-column="20" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

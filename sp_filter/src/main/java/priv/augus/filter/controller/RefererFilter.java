@@ -16,14 +16,14 @@ import java.io.IOException;
  * @date 2018/8/3
  */
 
-@Component
-@WebFilter(urlPatterns = "/user/*", filterName = "ref")
+//@Component
+//@WebFilter(urlPatterns = "/user/*", filterName = "ref")
 public class RefererFilter implements Filter {
 
 
     @Override
     public void init(FilterConfig filterConfig) throws ServletException {
-
+        System.out.println("RefererFilter 初始化");
     }
 
     @Override
